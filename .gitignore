@@ -57,9 +57,6 @@ local_settings.py
 instance/
 .webassets-cache
 
-# Scrapy stuff:
-.scrapy
-
 # Sphinx documentation
 docs/_build/
 
@@ -95,3 +92,6 @@ ENV/
 
 # mypy
 .mypy_cache/
+
+.idea
+.vagrant
